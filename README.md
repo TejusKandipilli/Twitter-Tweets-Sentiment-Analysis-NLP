@@ -14,7 +14,7 @@ Sentiment Analysis involves determining the emotional tone behind a piece of tex
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/sentiment-analysis-logistic-regression.git`
+1. **Clone the Repository**: `git clone https://github.com/TejusKandipilli/sentiment-analysis-logistic-regression.git`
 2. **Run the GUI Application**: Execute the GUI application script to interact with the trained model.
 3. **Input Text**: Enter a piece of text into the application.
 4. **Get Prediction**: The model will provide a prediction on whether the input text is positive or negative.
