@@ -13,6 +13,7 @@ Sentiment Analysis involves determining the emotional tone behind a piece of tex
 - **GUI Application**: The trained model is seamlessly integrated into a graphical user interface, enabling users to input text and receive predictions on whether the entered message is positive or negative.
 
 ## How to Use
+dataset: `https://www.kaggle.com/datasets/kazanova/sentiment140`
 
 1. **Clone the Repository**: `git clone https://github.com/TejusKandipilli/sentiment-analysis-logistic-regression.git`
 2. **Run the GUI Application**: Execute the GUI application script to interact with the trained model.
